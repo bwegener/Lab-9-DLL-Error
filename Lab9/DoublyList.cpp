@@ -1,3 +1,12 @@
+/*
+	Wegener, Brian
+
+	CS A250
+	March 20, 2018
+
+	Lab 9: DLL Errors
+*/
+
 #include "DoublyList.h"
 
 DoublyList::DoublyList()
